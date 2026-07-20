@@ -1,2 +1,2 @@
-# BOOKSTORE-SQL-PROJECT
+SQL-PROJECT
 My first SQL project.
